@@ -1,0 +1,2 @@
+# Kata-PreProject
+Learning Java
